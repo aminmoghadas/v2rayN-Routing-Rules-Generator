@@ -5,4 +5,5 @@
 
 ananas-collectionn.com|whitelist
 filter.keywp.ir|whitelist
+hebe.gold|whitelist
 talajat.net|whitelist
