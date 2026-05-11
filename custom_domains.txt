@@ -5,3 +5,4 @@
 
 ananas-collectionn.com|whitelist
 filter.keywp.ir|whitelist
+talajat.net|whitelist
