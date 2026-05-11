@@ -1,3 +1,9 @@
+# Local cache of upstream domain lists
+iran_domains/
+
+# Local virtualenv for the web UI
+.venv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
