@@ -7,4 +7,5 @@ ananas-collectionn.com|whitelist
 doft98.ir|whitelist
 filter.keywp.ir|whitelist
 hebe.gold|whitelist
+soft98.ir|whitelist
 talajat.net|whitelist
