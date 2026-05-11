@@ -4,6 +4,7 @@
 # Lines starting with # are ignored.
 
 ananas-collectionn.com|whitelist
+doft98.ir|whitelist
 filter.keywp.ir|whitelist
 hebe.gold|whitelist
 talajat.net|whitelist
