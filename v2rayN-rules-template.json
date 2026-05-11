@@ -1,13 +1,24 @@
 [
   {
+    "id": "iran-sites",
+    "remarks": "domain",
+    "type": "field",
+    "ruleType": 1,
+    "outboundTag": "direct",
+    "enabled": true
+  },
+  {
     "id": "ads-block",
     "type": "field",
+    "ruleType": 1,
     "outboundTag": "block",
     "enabled": false
   },
   {
     "id": "ir-domains",
+    "remarks": "domain ir",
     "type": "field",
+    "ruleType": 1,
     "outboundTag": "direct",
     "domain": [
       "regexp:.+\\.ir$"
@@ -16,7 +27,9 @@
   },
   {
     "id": "all-iran-ip",
+    "remarks": "ip ir",
     "type": "field",
+    "ruleType": 1,
     "outboundTag": "direct",
     "ip": [
       "geoip:private",
@@ -25,14 +38,10 @@
     "enabled": true
   },
   {
-    "id": "iran-sites",
-    "type": "field",
-    "outboundTag": "direct",
-    "enabled": true
-  },
-  {
     "id": "ports",
+    "remarks": "port proxy",
     "type": "field",
+    "ruleType": 1,
     "port": "0-65535",
     "outboundTag": "proxy",
     "enabled": true
