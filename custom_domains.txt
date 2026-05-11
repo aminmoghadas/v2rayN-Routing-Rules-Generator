@@ -1,0 +1,6 @@
+# Custom domains added via the web UI.
+# Format: <domain>|<list>   where <list> is "whitelist" or "blocklist".
+# Whitelist = routed directly (no VPN). Blocklist = blocked.
+# Lines starting with # are ignored.
+
+filter.keywp.ir|whitelist
