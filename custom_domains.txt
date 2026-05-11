@@ -3,4 +3,5 @@
 # Whitelist = routed directly (no VPN). Blocklist = blocked.
 # Lines starting with # are ignored.
 
+ananas-collectionn.com|whitelist
 filter.keywp.ir|whitelist
