@@ -3,6 +3,7 @@
 # Whitelist = routed directly (no VPN). Blocklist = blocked.
 # Lines starting with # are ignored.
 
+allwindoor.net|whitelist
 aminmoghadas.ir|whitelist
 ananas-collectionn.com|whitelist
 doft98.ir|whitelist
